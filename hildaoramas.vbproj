@@ -93,12 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\css\style.css" />
-    <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\bg.jpg" />
-    <Content Include="assets\img\favicon.png" />
-    <Content Include="assets\img\me.jpg" />
-    <Content Include="assets\vendor\bootstrap.css" />
-    <Content Include="forms\contact.php" />
     <Content Include="index.html" />
     <Content Include="portfolio-details.html" />
     <Content Include="Web.config" />
@@ -133,7 +128,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\img\bg.psd" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -153,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\js\" />
+    <Folder Include="assets\vendor\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
