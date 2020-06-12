@@ -96,6 +96,12 @@
     <Content Include="assets\img\bg.jpg" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\me.jpg" />
+    <Content Include="assets\img\portfolio\Close1.JPG" />
+    <Content Include="assets\img\portfolio\Close2.JPG" />
+    <Content Include="assets\img\portfolio\Close3.JPG" />
+    <Content Include="assets\img\portfolio\Exterior1.JPG" />
+    <Content Include="assets\img\portfolio\Exterior2.JPG" />
+    <Content Include="assets\img\portfolio\Exterior3.JPG" />
     <Content Include="assets\img\portfolio\MODEL1.JPG" />
     <Content Include="assets\img\portfolio\MODEL10.jpg" />
     <Content Include="assets\img\portfolio\MODEL11.jpg" />
